@@ -1,4 +1,4 @@
-## 2 functions to use cache to store the inverse of a matrix
+## Two functions to use cache to store the inverse of a matrix
 
 ## makeCacheMatrix...creates an R object that stores...
 ## a matrix and its inverse matrix
